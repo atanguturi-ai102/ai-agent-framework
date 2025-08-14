@@ -1,0 +1,29 @@
+{
+  "user_stories": [
+    {
+      "id": "US-001",
+      "title": "Core Feature",
+      "user_type": "user",
+      "feature": "use the main functionality",
+      "benefit": "I can achieve my goals",
+      "acceptance_criteria": [
+        "Feature works as described",
+        "User interface is intuitive",
+        "Performance is acceptable"
+      ],
+      "priority": "High",
+      "story_points": 5
+    }
+  ],
+  "epics": [
+    {
+      "name": "Core Features",
+      "stories": [
+        "US-001"
+      ],
+      "total_points": 5
+    }
+  ],
+  "total_stories": 1,
+  "total_epics": 1
+}
